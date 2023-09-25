@@ -1,3 +1,4 @@
+#Escreva um programa que faça a rotação de um objeto em torno de um ponto específico e exiba o resultado na tela.
 import math
 
 # Função para realizar a rotação de um ponto (x, y) em torno de um ponto (cx, cy) por um ângulo em graus.
