@@ -1,3 +1,4 @@
+#Escreva um programa que realize a escala de um objeto em relação a um ponto específico e exiba o resultado na tela.
 def escalar_objeto(objeto, ponto_referencia, fator_escala):
     # Inicialize uma lista para armazenar os novos pontos do objeto escalado
     objeto_escalado = []
