@@ -1,3 +1,4 @@
+#Escreva um programa que realize a translação de um objeto em uma determinada direção e exiba o resultado na tela.
 class Objeto:
     def __init__(self, x, y):
         self.x = x
